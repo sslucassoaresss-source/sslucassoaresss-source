@@ -4,7 +4,7 @@ Frontend / Full-Stack Developer building real, production-used web applications 
 
 I come from a 6-year career in live TV production (audio & camera operation for major Brazilian networks), and transitioned into software development through hands-on, problem-driven learning: I build things people actually use, then learn whatever it takes to make them work well.
 
-🌍 Currently based in São Paulo, Brazil — **relocating to Spain** and open to remote-first roles with EU teams.
+🌍 Currently based in São Paulo, Brazil —  open to remote-first roles with EU teams.
 
 ---
 
