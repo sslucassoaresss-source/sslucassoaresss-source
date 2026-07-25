@@ -121,6 +121,26 @@ and shipping PWA applications that work offline.
 
 ---
 
+#### 🔹 Fervo Arquitetura e Interiores — Institutional Site + AI Lead Assistant
+
+**Client project**: institutional website for an architecture & interior design studio, with an AI-powered virtual assistant (Google Gemini) for lead capture.
+
+**What it does:**
+- Portfolio showcase filterable by project category (commercial, residential, consulting)
+- AI chat widget that qualifies leads and always redirects pricing/technical/legal questions to WhatsApp, per client briefing
+- Lightbox gallery, FAQ section, smooth-scroll navigation
+
+**Tech & Architecture:**
+- Frontend: HTML5, CSS3, JavaScript — no framework, no build step
+- Backend: Vercel Serverless Function calling the Google Gemini API (free tier), keeping the AI key off the client entirely
+- Client project — content, tone, and business rules defined per briefing
+
+**Try it:**
+- 🔗 [Live Site](https://fervo-arquitetura.vercel.app)
+- 💻 *Private repo (client project)*
+
+---
+
 ### 🌱 Always Learning
 
 I'm constantly deepening my expertise in:
